@@ -8,9 +8,8 @@ authors:
   warren:
     name: Warren Crasta
     display_name: Warren Crasta
-    avatar: assets/images/avatar.png
+    avatar: assets/images/avatar.jpg
     email: warrencrasta@gmail.com
-    twitter: https://twitter.com/warrencrasta
     description: "Software Engineer. Recent grad from UT-Austin."
 
 # Plugins
